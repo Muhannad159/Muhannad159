@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhannad</h1>
 <h3 align="center">An Undergraduate Student at Faculty of Engineering - Cairo University</h3>
+<p align="center" width="100%">
+    <img width="60%" height=auto src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg">
+</p>
+
 
 - 📫 How to reach me **muhannadd159@gmail.com**
 
