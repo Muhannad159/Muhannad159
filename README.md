@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhannad</h1>
-<h3 align="center">Software Engineer | Systems & Biomedical Engineering</h3>
+<h3 align="center">Software Engineer | Systems & Biomedical Engineering Graduate</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhannad-abdallah/">
