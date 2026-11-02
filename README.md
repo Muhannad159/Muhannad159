@@ -27,8 +27,6 @@
 </p>
 
 ### Frontend
-
-### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,materialui" alt="Frontend technologies" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" height="46" alt="Zustand" />
